@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "frogrepoog:block/cratespace_block_door"
+  }
+
+}
