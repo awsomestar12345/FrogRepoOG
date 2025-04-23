@@ -22,8 +22,12 @@ public class ModCreativeModeTabs {
             .displayItems((itemDisplayParameters, output) ->{
                 output.accept(ModItems.CRATESPACE.get());
                 output.accept(ModItems.TIPPER.get());
+                output.accept(ModItems.OMNITOOL.get());
+
                 output.accept(ModBlocks.CRATESPACE_BLOCK.get());
                 output.accept(ModBlocks.CRATESPACE_BLOCK_DOOR.get());
+                output.accept(ModBlocks.FUNCTIONAL_BLOCK.get());
+
 
             }).build());
 

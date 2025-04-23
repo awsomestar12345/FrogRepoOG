@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 30,
+  "experience": 1,
+  "ingredient": {
+    "item": "minecraft:iron_block"
+    },
+  "result": {
+    "count": 1,
+    "id": "frogrepoog:cratespace_block_door"
+  }
+
+
+}

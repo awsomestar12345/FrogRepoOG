@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "condition": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "frogrepoog:cratespace_block_door"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "frogrepoog:blocks/cratespace_block_door"
+
+}

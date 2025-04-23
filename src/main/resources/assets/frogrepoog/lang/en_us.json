@@ -1,9 +1,11 @@
 {
   "item.frogrepoog.cratespace": "Crate Space",
   "item.frogrepoog.tipper": "Tipper",
+  "item.frogrepoog.omnitool": "Omni-Tool",
 
   "block.frogrepoog.cratespace_block": "Crate Space Spot",
   "block.frogrepoog.cratespace_block_door": "Crate Door",
+  "block.frogrepoog.functional_block": "Functional Block",
 
   "creativetab.frogrepoog.frogrepoog": "FrogRepoOG"
 }

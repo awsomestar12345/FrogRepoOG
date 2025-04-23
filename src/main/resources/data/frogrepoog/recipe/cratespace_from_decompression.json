@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+    "item": "frogrepoog:cratespace_block"
+    }
+],
+  "result": {
+    "count": 8,
+    "id": "frogrepoog:cratespace"
+  }
+
+
+}

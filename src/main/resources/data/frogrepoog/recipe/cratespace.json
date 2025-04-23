@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "minecraft:andesite"
+    },
+    "L": {
+      "tag": "minecraft:logs"
+    }
+  },
+  "pattern": [
+    "LSL",
+    "SAS",
+    "LAL"
+  ],
+  "result": {
+    "count": 8,
+    "id": "frogrepoog:cratespace"
+  }
+
+
+}
